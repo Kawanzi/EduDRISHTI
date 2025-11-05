@@ -23,9 +23,9 @@ This view highlights the dynamic, interactive nature of the web application, fea
 
 ### Power BI Professional Report Preview
 This represents the static, multi-page layout optimized for executive decision-makers, showcasing geospatial findings and KPI summaries.
-![Power BI Professional Report Page 1](imgs/pbi_page1.jpg)
-![Power BI Professional Report Page 2](imgs/pbi_page2.jpg)
-![Power BI Professional Report Page 3](imgs/pbi_page3.jpg)
+![Power BI Professional Report Page 1](imgs/pbi_page1.png)
+![Power BI Professional Report Page 2](imgs/pbi_page2.png)
+![Power BI Professional Report Page 3](imgs/pbi_page3.png)
 
 ## ✨ Features  
 - ⚙️ **Advanced Feature Engineering:** Extracted **Skewness** and **Kurtosis** from score distributions to act as primary statistical proxies for non-random clustering or uniformity of scores.
@@ -72,9 +72,9 @@ This project provided critical, objective insights into the 2024 NEET-UG perform
 │    └── NEET_Master_ML_Data.csv
 │
 ├── 📁 imgs/
-│   ├── pbi_page1.jpg
-│   ├── pbi_page2.jpg
-│   ├── pbi_page3.jpg
+│   ├── pbi_page1.png
+│   ├── pbi_page2.png
+│   ├── pbi_page3.png
 │   ├── stream_page1.png
 │   ├── stream_page2.png
 │   └── stream_page3.png
